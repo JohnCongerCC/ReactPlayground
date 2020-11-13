@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started 
 
 This project was coded by hand using https://jscomplete.com/learn/1rd-reactful.
 
